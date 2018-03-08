@@ -1,0 +1,11 @@
+{
+  "domainUrl":"",
+  "updateUrl":"http://mh.xgveg.com",
+  "branches":[
+    {
+      "code":"1001",
+      "version":"1.0.1",
+      "status":"release"
+    }
+  ]
+}

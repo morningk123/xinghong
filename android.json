@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.1016wan.com/xinghong_download/",
   "branches":[
         {
-      "code":"1001",
-      "version":"1.0.1",
+      "code":"1004",
+      "version":"1.0.4",
       "status":"release"
     },
       {
-      "code":"1004",
-      "version":"1.0.4",
+      "code":"1005",
+      "version":"1.0.5",
       "status":"release"
     }
   ]
